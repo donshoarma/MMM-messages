@@ -32,4 +32,6 @@ Notification API Module for MagicMirror<sup>2</sup>
 
 ## How to Use
 Make an http get request like:
-  http://MIRROR_IP:MIRROR_PORT/syslog?type=INFO&message=YOUR_MESSAGE
+  http://MIRROR_IP:MIRROR_PORT/message/magicmirror?type=VIDEOO&message=http://urltoyourvideo
+  http://MIRROR_IP:MIRROR_PORT//message/magicmirror?type=PHOTO&message=http://urltoyourfoto
+  http://MIRROR_IP:MIRROR_PORT/message/magicmirror?type=TEXT&message=your text message
