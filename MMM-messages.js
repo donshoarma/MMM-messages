@@ -1,7 +1,7 @@
 /* global Module */
 
 /* Magic Mirror
- * Module: MMM-syslog
+ * Module: MMM-messages
  *
  * By Paul-Vincent Roll http://paulvincentroll.com
  * MIT Licensed.

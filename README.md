@@ -1,8 +1,9 @@
-# MMM-syslog
+# MMM-messages
 Notification API Module for MagicMirror<sup>2</sup>
 
 ## Example
 
+#TODO upload new picture
 ![](https://forum.magicmirror.builders/uploads/files/1473753516823-syslog-icon-4.jpg)
 
 ## Dependencies
@@ -14,7 +15,7 @@ Notification API Module for MagicMirror<sup>2</sup>
 
     ```
     {
-        module: 'MMM-syslog',
+        module: 'MMM-messages',
         position: 'top_right',
         config: {
             ...
